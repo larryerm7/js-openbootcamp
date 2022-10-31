@@ -1,0 +1,16 @@
+{
+  "name": "js-openbootcamp",
+  "version": "1.0.0",
+  "description": "Este es mi primer proyecto js node",
+  "main": "index.js",
+  "scripts": {
+    "openb": "node hola-mundo.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hola",
+    "firstproyect"
+  ],
+  "author": "Larry Reyes",
+  "license": "ISC"
+}
